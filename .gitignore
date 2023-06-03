@@ -1,5 +1,4 @@
-/.DS_Store
-/Readme.txt
-/dump.html
-/vendor
-/forms
+.DS_Store
+.Readme.txt
+.dump.html
+vendor
